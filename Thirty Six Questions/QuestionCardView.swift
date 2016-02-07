@@ -6,8 +6,9 @@
 //  Copyright © 2016 Angela Cartagena. All rights reserved.
 //
 
-import Cocoa
+import UIKit
 
 class QuestionCardView: UIView {
 
+    
 }

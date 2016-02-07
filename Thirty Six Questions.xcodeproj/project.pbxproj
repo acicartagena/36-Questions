@@ -13,6 +13,8 @@
 		606AEA2E1C671C1300F9FAEE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA2C1C671C1300F9FAEE /* Main.storyboard */; };
 		606AEA301C671C1300F9FAEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA2F1C671C1300F9FAEE /* Assets.xcassets */; };
 		606AEA331C671C1300F9FAEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA311C671C1300F9FAEE /* LaunchScreen.storyboard */; };
+		606AEA3B1C6722FF00F9FAEE /* QuestionCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 606AEA3A1C6722FF00F9FAEE /* QuestionCardView.swift */; };
+		606AEA3D1C67233A00F9FAEE /* QuestionCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 606AEA3C1C67233A00F9FAEE /* QuestionCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		606AEA2F1C671C1300F9FAEE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		606AEA321C671C1300F9FAEE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		606AEA341C671C1300F9FAEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		606AEA3A1C6722FF00F9FAEE /* QuestionCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionCardView.swift; sourceTree = "<group>"; };
+		606AEA3C1C67233A00F9FAEE /* QuestionCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 			children = (
 				606AEA281C671C1300F9FAEE /* AppDelegate.swift */,
 				606AEA2A1C671C1300F9FAEE /* ViewController.swift */,
+				606AEA3A1C6722FF00F9FAEE /* QuestionCardView.swift */,
+				606AEA3C1C67233A00F9FAEE /* QuestionCard.swift */,
 				606AEA2C1C671C1300F9FAEE /* Main.storyboard */,
 				606AEA2F1C671C1300F9FAEE /* Assets.xcassets */,
 				606AEA311C671C1300F9FAEE /* LaunchScreen.storyboard */,
@@ -212,6 +218,8 @@
 			files = (
 				606AEA2B1C671C1300F9FAEE /* ViewController.swift in Sources */,
 				606AEA291C671C1300F9FAEE /* AppDelegate.swift in Sources */,
+				606AEA3B1C6722FF00F9FAEE /* QuestionCardView.swift in Sources */,
+				606AEA3D1C67233A00F9FAEE /* QuestionCard.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
