@@ -15,6 +15,28 @@
 		606AEA331C671C1300F9FAEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA311C671C1300F9FAEE /* LaunchScreen.storyboard */; };
 		606AEA3B1C6722FF00F9FAEE /* QuestionCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 606AEA3A1C6722FF00F9FAEE /* QuestionCardView.swift */; };
 		606AEA3D1C67233A00F9FAEE /* QuestionCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 606AEA3C1C67233A00F9FAEE /* QuestionCard.swift */; };
+		606AEA551C673B2200F9FAEE /* A little sunshine.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA3F1C673B2200F9FAEE /* A little sunshine.ttf */; };
+		606AEA561C673B2200F9FAEE /* appleberry.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA401C673B2200F9FAEE /* appleberry.ttf */; };
+		606AEA571C673B2200F9FAEE /* Atlantic_Cruise-Demo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA411C673B2200F9FAEE /* Atlantic_Cruise-Demo.ttf */; };
+		606AEA581C673B2200F9FAEE /* basictitlefont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA421C673B2200F9FAEE /* basictitlefont.ttf */; };
+		606AEA591C673B2200F9FAEE /* big_noodle_titling.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA431C673B2200F9FAEE /* big_noodle_titling.ttf */; };
+		606AEA5A1C673B2200F9FAEE /* Brain Flower Euro.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA441C673B2200F9FAEE /* Brain Flower Euro.ttf */; };
+		606AEA5B1C673B2200F9FAEE /* ClaphappyLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA451C673B2200F9FAEE /* ClaphappyLight.ttf */; };
+		606AEA5C1C673B2200F9FAEE /* Confessions WITHOUT ACCENTS (TrueType).ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA461C673B2200F9FAEE /* Confessions WITHOUT ACCENTS (TrueType).ttf */; };
+		606AEA5D1C673B2200F9FAEE /* DJB Coffee Shoppe Espresso.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA471C673B2200F9FAEE /* DJB Coffee Shoppe Espresso.ttf */; };
+		606AEA5E1C673B2200F9FAEE /* DJB Stinky Marker.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA481C673B2200F9FAEE /* DJB Stinky Marker.ttf */; };
+		606AEA5F1C673B2200F9FAEE /* DK Lemon Yellow Sun.otf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA491C673B2200F9FAEE /* DK Lemon Yellow Sun.otf */; };
+		606AEA601C673B2200F9FAEE /* Fishfingers.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA4A1C673B2200F9FAEE /* Fishfingers.ttf */; };
+		606AEA611C673B2200F9FAEE /* Homework Font.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA4B1C673B2200F9FAEE /* Homework Font.ttf */; };
+		606AEA621C673B2200F9FAEE /* natwooddraws-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA4C1C673B2200F9FAEE /* natwooddraws-Regular.ttf */; };
+		606AEA631C673B2200F9FAEE /* orange juice 2.0.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA4D1C673B2200F9FAEE /* orange juice 2.0.ttf */; };
+		606AEA641C673B2200F9FAEE /* Rounded Elegance.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA4E1C673B2200F9FAEE /* Rounded Elegance.ttf */; };
+		606AEA651C673B2200F9FAEE /* ThrowMyHandsUpintheAirBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA4F1C673B2200F9FAEE /* ThrowMyHandsUpintheAirBold.ttf */; };
+		606AEA661C673B2200F9FAEE /* TrashHand.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA501C673B2200F9FAEE /* TrashHand.TTF */; };
+		606AEA671C673B2200F9FAEE /* TravelingTypewriter.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA511C673B2200F9FAEE /* TravelingTypewriter.ttf */; };
+		606AEA681C673B2200F9FAEE /* Walkway Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA521C673B2200F9FAEE /* Walkway Black.ttf */; };
+		606AEA691C673B2200F9FAEE /* walter_goes_to_america.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA531C673B2200F9FAEE /* walter_goes_to_america.ttf */; };
+		606AEA6A1C673B2200F9FAEE /* YouAreJustMyType.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA541C673B2200F9FAEE /* YouAreJustMyType.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +52,28 @@
 		606AEA341C671C1300F9FAEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		606AEA3A1C6722FF00F9FAEE /* QuestionCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionCardView.swift; sourceTree = "<group>"; };
 		606AEA3C1C67233A00F9FAEE /* QuestionCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionCard.swift; sourceTree = "<group>"; };
+		606AEA3F1C673B2200F9FAEE /* A little sunshine.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "A little sunshine.ttf"; path = "Fonts/A little sunshine.ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA401C673B2200F9FAEE /* appleberry.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = appleberry.ttf; path = Fonts/appleberry.ttf; sourceTree = SOURCE_ROOT; };
+		606AEA411C673B2200F9FAEE /* Atlantic_Cruise-Demo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Atlantic_Cruise-Demo.ttf"; path = "Fonts/Atlantic_Cruise-Demo.ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA421C673B2200F9FAEE /* basictitlefont.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = basictitlefont.ttf; path = Fonts/basictitlefont.ttf; sourceTree = SOURCE_ROOT; };
+		606AEA431C673B2200F9FAEE /* big_noodle_titling.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = big_noodle_titling.ttf; path = Fonts/big_noodle_titling.ttf; sourceTree = SOURCE_ROOT; };
+		606AEA441C673B2200F9FAEE /* Brain Flower Euro.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Brain Flower Euro.ttf"; path = "Fonts/Brain Flower Euro.ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA451C673B2200F9FAEE /* ClaphappyLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = ClaphappyLight.ttf; path = Fonts/ClaphappyLight.ttf; sourceTree = SOURCE_ROOT; };
+		606AEA461C673B2200F9FAEE /* Confessions WITHOUT ACCENTS (TrueType).ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Confessions WITHOUT ACCENTS (TrueType).ttf"; path = "Fonts/Confessions WITHOUT ACCENTS (TrueType).ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA471C673B2200F9FAEE /* DJB Coffee Shoppe Espresso.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "DJB Coffee Shoppe Espresso.ttf"; path = "Fonts/DJB Coffee Shoppe Espresso.ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA481C673B2200F9FAEE /* DJB Stinky Marker.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "DJB Stinky Marker.ttf"; path = "Fonts/DJB Stinky Marker.ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA491C673B2200F9FAEE /* DK Lemon Yellow Sun.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "DK Lemon Yellow Sun.otf"; path = "Fonts/DK Lemon Yellow Sun.otf"; sourceTree = SOURCE_ROOT; };
+		606AEA4A1C673B2200F9FAEE /* Fishfingers.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Fishfingers.ttf; path = Fonts/Fishfingers.ttf; sourceTree = SOURCE_ROOT; };
+		606AEA4B1C673B2200F9FAEE /* Homework Font.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Homework Font.ttf"; path = "Fonts/Homework Font.ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA4C1C673B2200F9FAEE /* natwooddraws-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "natwooddraws-Regular.ttf"; path = "Fonts/natwooddraws-Regular.ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA4D1C673B2200F9FAEE /* orange juice 2.0.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "orange juice 2.0.ttf"; path = "Fonts/orange juice 2.0.ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA4E1C673B2200F9FAEE /* Rounded Elegance.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rounded Elegance.ttf"; path = "Fonts/Rounded Elegance.ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA4F1C673B2200F9FAEE /* ThrowMyHandsUpintheAirBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = ThrowMyHandsUpintheAirBold.ttf; path = Fonts/ThrowMyHandsUpintheAirBold.ttf; sourceTree = SOURCE_ROOT; };
+		606AEA501C673B2200F9FAEE /* TrashHand.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = TrashHand.TTF; path = Fonts/TrashHand.TTF; sourceTree = SOURCE_ROOT; };
+		606AEA511C673B2200F9FAEE /* TravelingTypewriter.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = TravelingTypewriter.ttf; path = Fonts/TravelingTypewriter.ttf; sourceTree = SOURCE_ROOT; };
+		606AEA521C673B2200F9FAEE /* Walkway Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Walkway Black.ttf"; path = "Fonts/Walkway Black.ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA531C673B2200F9FAEE /* walter_goes_to_america.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = walter_goes_to_america.ttf; path = Fonts/walter_goes_to_america.ttf; sourceTree = SOURCE_ROOT; };
+		606AEA541C673B2200F9FAEE /* YouAreJustMyType.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = YouAreJustMyType.ttf; path = Fonts/YouAreJustMyType.ttf; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +109,7 @@
 		606AEA271C671C1300F9FAEE /* Thirty Six Questions */ = {
 			isa = PBXGroup;
 			children = (
+				606AEA3E1C673B0E00F9FAEE /* Fonts */,
 				606AEA281C671C1300F9FAEE /* AppDelegate.swift */,
 				606AEA2A1C671C1300F9FAEE /* ViewController.swift */,
 				606AEA3A1C6722FF00F9FAEE /* QuestionCardView.swift */,
@@ -75,6 +120,35 @@
 				606AEA341C671C1300F9FAEE /* Info.plist */,
 			);
 			path = "Thirty Six Questions";
+			sourceTree = "<group>";
+		};
+		606AEA3E1C673B0E00F9FAEE /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				606AEA3F1C673B2200F9FAEE /* A little sunshine.ttf */,
+				606AEA401C673B2200F9FAEE /* appleberry.ttf */,
+				606AEA411C673B2200F9FAEE /* Atlantic_Cruise-Demo.ttf */,
+				606AEA421C673B2200F9FAEE /* basictitlefont.ttf */,
+				606AEA431C673B2200F9FAEE /* big_noodle_titling.ttf */,
+				606AEA441C673B2200F9FAEE /* Brain Flower Euro.ttf */,
+				606AEA451C673B2200F9FAEE /* ClaphappyLight.ttf */,
+				606AEA461C673B2200F9FAEE /* Confessions WITHOUT ACCENTS (TrueType).ttf */,
+				606AEA471C673B2200F9FAEE /* DJB Coffee Shoppe Espresso.ttf */,
+				606AEA481C673B2200F9FAEE /* DJB Stinky Marker.ttf */,
+				606AEA491C673B2200F9FAEE /* DK Lemon Yellow Sun.otf */,
+				606AEA4A1C673B2200F9FAEE /* Fishfingers.ttf */,
+				606AEA4B1C673B2200F9FAEE /* Homework Font.ttf */,
+				606AEA4C1C673B2200F9FAEE /* natwooddraws-Regular.ttf */,
+				606AEA4D1C673B2200F9FAEE /* orange juice 2.0.ttf */,
+				606AEA4E1C673B2200F9FAEE /* Rounded Elegance.ttf */,
+				606AEA4F1C673B2200F9FAEE /* ThrowMyHandsUpintheAirBold.ttf */,
+				606AEA501C673B2200F9FAEE /* TrashHand.TTF */,
+				606AEA511C673B2200F9FAEE /* TravelingTypewriter.ttf */,
+				606AEA521C673B2200F9FAEE /* Walkway Black.ttf */,
+				606AEA531C673B2200F9FAEE /* walter_goes_to_america.ttf */,
+				606AEA541C673B2200F9FAEE /* YouAreJustMyType.ttf */,
+			);
+			name = Fonts;
 			sourceTree = "<group>";
 		};
 		9AC6DC563B7C2028579F9738 /* Pods */ = {
@@ -129,6 +203,7 @@
 				TargetAttributes = {
 					606AEA241C671C1300F9FAEE = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = VWW575E2Q5;
 					};
 				};
 			};
@@ -155,9 +230,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				606AEA611C673B2200F9FAEE /* Homework Font.ttf in Resources */,
+				606AEA581C673B2200F9FAEE /* basictitlefont.ttf in Resources */,
+				606AEA641C673B2200F9FAEE /* Rounded Elegance.ttf in Resources */,
+				606AEA621C673B2200F9FAEE /* natwooddraws-Regular.ttf in Resources */,
+				606AEA6A1C673B2200F9FAEE /* YouAreJustMyType.ttf in Resources */,
+				606AEA681C673B2200F9FAEE /* Walkway Black.ttf in Resources */,
+				606AEA691C673B2200F9FAEE /* walter_goes_to_america.ttf in Resources */,
+				606AEA671C673B2200F9FAEE /* TravelingTypewriter.ttf in Resources */,
+				606AEA5A1C673B2200F9FAEE /* Brain Flower Euro.ttf in Resources */,
+				606AEA601C673B2200F9FAEE /* Fishfingers.ttf in Resources */,
+				606AEA5B1C673B2200F9FAEE /* ClaphappyLight.ttf in Resources */,
+				606AEA571C673B2200F9FAEE /* Atlantic_Cruise-Demo.ttf in Resources */,
 				606AEA331C671C1300F9FAEE /* LaunchScreen.storyboard in Resources */,
+				606AEA661C673B2200F9FAEE /* TrashHand.TTF in Resources */,
+				606AEA631C673B2200F9FAEE /* orange juice 2.0.ttf in Resources */,
+				606AEA5D1C673B2200F9FAEE /* DJB Coffee Shoppe Espresso.ttf in Resources */,
+				606AEA561C673B2200F9FAEE /* appleberry.ttf in Resources */,
+				606AEA551C673B2200F9FAEE /* A little sunshine.ttf in Resources */,
 				606AEA301C671C1300F9FAEE /* Assets.xcassets in Resources */,
+				606AEA5E1C673B2200F9FAEE /* DJB Stinky Marker.ttf in Resources */,
+				606AEA5F1C673B2200F9FAEE /* DK Lemon Yellow Sun.otf in Resources */,
+				606AEA651C673B2200F9FAEE /* ThrowMyHandsUpintheAirBold.ttf in Resources */,
+				606AEA591C673B2200F9FAEE /* big_noodle_titling.ttf in Resources */,
 				606AEA2E1C671C1300F9FAEE /* Main.storyboard in Resources */,
+				606AEA5C1C673B2200F9FAEE /* Confessions WITHOUT ACCENTS (TrueType).ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -331,10 +428,13 @@
 			baseConfigurationReference = 5AB704D4A465DE62C5B82868 /* Pods-Thirty Six Questions.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Thirty Six Questions/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.acicartagena.questions.Thirty-Six-Questions";
+				PRODUCT_BUNDLE_IDENTIFIER = com.acicartagena.questions;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -343,10 +443,13 @@
 			baseConfigurationReference = 083F3074D64EEE5413DC88CF /* Pods-Thirty Six Questions.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Thirty Six Questions/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.acicartagena.questions.Thirty-Six-Questions";
+				PRODUCT_BUNDLE_IDENTIFIER = com.acicartagena.questions;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};

@@ -8,6 +8,8 @@
 
 import Foundation
 
+let cardCount = 36
+
 let cardsSet1 = [ "Given the choice of anyone in the world, whom would you want as a dinner guest?",
                 "Would you like to be famous? \n In what way?",
                 "Before making a telephone call, do you ever rehearse what you are going to say? \n Why?",
@@ -49,7 +51,44 @@ let cardsSet3 = ["Make three true \"we\" statements each. For instance, \"We are
 
 
 
-
+class Card {
+    
+    var cardString: String?
+    let cardNumber: Int
+    
+    init?(cardNumber: Int) {
+        if cardNumber > 35 {
+            self.cardNumber = 0
+            return nil
+        }
+        
+        self.cardNumber = cardNumber
+        let cardSet = cardNumber/12
+        let card = cardNumber%12
+        
+        switch cardSet {
+        case 0:
+            cardString = cardsSet1[card]
+        case 1:
+            cardString = cardsSet2[card]
+        case 2:
+            cardString = cardsSet3[card]
+        default:
+            return nil
+        }
+    }
+    
+    class func getCardStack() -> [Card] {
+        var stack = [Card]()
+        
+        for i in 0...35 {
+            if let card = Card(cardNumber: i) {
+                stack.append(card)
+            }
+        }
+        return stack
+    }
+}
 
 
 
