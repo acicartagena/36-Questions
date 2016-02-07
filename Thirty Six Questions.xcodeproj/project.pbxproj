@@ -18,13 +18,9 @@
 		606AEA551C673B2200F9FAEE /* A little sunshine.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA3F1C673B2200F9FAEE /* A little sunshine.ttf */; };
 		606AEA561C673B2200F9FAEE /* appleberry.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA401C673B2200F9FAEE /* appleberry.ttf */; };
 		606AEA571C673B2200F9FAEE /* Atlantic_Cruise-Demo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA411C673B2200F9FAEE /* Atlantic_Cruise-Demo.ttf */; };
-		606AEA581C673B2200F9FAEE /* basictitlefont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA421C673B2200F9FAEE /* basictitlefont.ttf */; };
 		606AEA591C673B2200F9FAEE /* big_noodle_titling.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA431C673B2200F9FAEE /* big_noodle_titling.ttf */; };
 		606AEA5A1C673B2200F9FAEE /* Brain Flower Euro.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA441C673B2200F9FAEE /* Brain Flower Euro.ttf */; };
 		606AEA5B1C673B2200F9FAEE /* ClaphappyLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA451C673B2200F9FAEE /* ClaphappyLight.ttf */; };
-		606AEA5C1C673B2200F9FAEE /* Confessions WITHOUT ACCENTS (TrueType).ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA461C673B2200F9FAEE /* Confessions WITHOUT ACCENTS (TrueType).ttf */; };
-		606AEA5D1C673B2200F9FAEE /* DJB Coffee Shoppe Espresso.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA471C673B2200F9FAEE /* DJB Coffee Shoppe Espresso.ttf */; };
-		606AEA5E1C673B2200F9FAEE /* DJB Stinky Marker.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA481C673B2200F9FAEE /* DJB Stinky Marker.ttf */; };
 		606AEA5F1C673B2200F9FAEE /* DK Lemon Yellow Sun.otf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA491C673B2200F9FAEE /* DK Lemon Yellow Sun.otf */; };
 		606AEA601C673B2200F9FAEE /* Fishfingers.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA4A1C673B2200F9FAEE /* Fishfingers.ttf */; };
 		606AEA611C673B2200F9FAEE /* Homework Font.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA4B1C673B2200F9FAEE /* Homework Font.ttf */; };
@@ -37,6 +33,11 @@
 		606AEA681C673B2200F9FAEE /* Walkway Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA521C673B2200F9FAEE /* Walkway Black.ttf */; };
 		606AEA691C673B2200F9FAEE /* walter_goes_to_america.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA531C673B2200F9FAEE /* walter_goes_to_america.ttf */; };
 		606AEA6A1C673B2200F9FAEE /* YouAreJustMyType.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA541C673B2200F9FAEE /* YouAreJustMyType.ttf */; };
+		606AEA6C1C673FFA00F9FAEE /* CustomFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 606AEA6B1C673FFA00F9FAEE /* CustomFont.swift */; };
+		606AEA701C6756BB00F9FAEE /* Comix Loud.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA6F1C6756BB00F9FAEE /* Comix Loud.ttf */; };
+		606AEA751C6756E600F9FAEE /* Le Grimoire du Bonheur.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA731C6756E600F9FAEE /* Le Grimoire du Bonheur.ttf */; };
+		606AEA771C67570300F9FAEE /* steelfish outline.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA761C67570300F9FAEE /* steelfish outline.ttf */; };
+		606AEA7A1C67571A00F9FAEE /* Wild Show.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA781C67571A00F9FAEE /* Wild Show.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,13 +56,9 @@
 		606AEA3F1C673B2200F9FAEE /* A little sunshine.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "A little sunshine.ttf"; path = "Fonts/A little sunshine.ttf"; sourceTree = SOURCE_ROOT; };
 		606AEA401C673B2200F9FAEE /* appleberry.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = appleberry.ttf; path = Fonts/appleberry.ttf; sourceTree = SOURCE_ROOT; };
 		606AEA411C673B2200F9FAEE /* Atlantic_Cruise-Demo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Atlantic_Cruise-Demo.ttf"; path = "Fonts/Atlantic_Cruise-Demo.ttf"; sourceTree = SOURCE_ROOT; };
-		606AEA421C673B2200F9FAEE /* basictitlefont.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = basictitlefont.ttf; path = Fonts/basictitlefont.ttf; sourceTree = SOURCE_ROOT; };
 		606AEA431C673B2200F9FAEE /* big_noodle_titling.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = big_noodle_titling.ttf; path = Fonts/big_noodle_titling.ttf; sourceTree = SOURCE_ROOT; };
 		606AEA441C673B2200F9FAEE /* Brain Flower Euro.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Brain Flower Euro.ttf"; path = "Fonts/Brain Flower Euro.ttf"; sourceTree = SOURCE_ROOT; };
 		606AEA451C673B2200F9FAEE /* ClaphappyLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = ClaphappyLight.ttf; path = Fonts/ClaphappyLight.ttf; sourceTree = SOURCE_ROOT; };
-		606AEA461C673B2200F9FAEE /* Confessions WITHOUT ACCENTS (TrueType).ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Confessions WITHOUT ACCENTS (TrueType).ttf"; path = "Fonts/Confessions WITHOUT ACCENTS (TrueType).ttf"; sourceTree = SOURCE_ROOT; };
-		606AEA471C673B2200F9FAEE /* DJB Coffee Shoppe Espresso.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "DJB Coffee Shoppe Espresso.ttf"; path = "Fonts/DJB Coffee Shoppe Espresso.ttf"; sourceTree = SOURCE_ROOT; };
-		606AEA481C673B2200F9FAEE /* DJB Stinky Marker.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "DJB Stinky Marker.ttf"; path = "Fonts/DJB Stinky Marker.ttf"; sourceTree = SOURCE_ROOT; };
 		606AEA491C673B2200F9FAEE /* DK Lemon Yellow Sun.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "DK Lemon Yellow Sun.otf"; path = "Fonts/DK Lemon Yellow Sun.otf"; sourceTree = SOURCE_ROOT; };
 		606AEA4A1C673B2200F9FAEE /* Fishfingers.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Fishfingers.ttf; path = Fonts/Fishfingers.ttf; sourceTree = SOURCE_ROOT; };
 		606AEA4B1C673B2200F9FAEE /* Homework Font.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Homework Font.ttf"; path = "Fonts/Homework Font.ttf"; sourceTree = SOURCE_ROOT; };
@@ -74,6 +71,11 @@
 		606AEA521C673B2200F9FAEE /* Walkway Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Walkway Black.ttf"; path = "Fonts/Walkway Black.ttf"; sourceTree = SOURCE_ROOT; };
 		606AEA531C673B2200F9FAEE /* walter_goes_to_america.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = walter_goes_to_america.ttf; path = Fonts/walter_goes_to_america.ttf; sourceTree = SOURCE_ROOT; };
 		606AEA541C673B2200F9FAEE /* YouAreJustMyType.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = YouAreJustMyType.ttf; path = Fonts/YouAreJustMyType.ttf; sourceTree = SOURCE_ROOT; };
+		606AEA6B1C673FFA00F9FAEE /* CustomFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomFont.swift; sourceTree = "<group>"; };
+		606AEA6F1C6756BB00F9FAEE /* Comix Loud.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Comix Loud.ttf"; path = "Fonts/Comix Loud.ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA731C6756E600F9FAEE /* Le Grimoire du Bonheur.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Le Grimoire du Bonheur.ttf"; path = "Fonts/Le Grimoire du Bonheur.ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA761C67570300F9FAEE /* steelfish outline.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "steelfish outline.ttf"; path = "Fonts/steelfish outline.ttf"; sourceTree = SOURCE_ROOT; };
+		606AEA781C67571A00F9FAEE /* Wild Show.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Wild Show.ttf"; path = "Fonts/Wild Show.ttf"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				606AEA2A1C671C1300F9FAEE /* ViewController.swift */,
 				606AEA3A1C6722FF00F9FAEE /* QuestionCardView.swift */,
 				606AEA3C1C67233A00F9FAEE /* QuestionCard.swift */,
+				606AEA6B1C673FFA00F9FAEE /* CustomFont.swift */,
 				606AEA2C1C671C1300F9FAEE /* Main.storyboard */,
 				606AEA2F1C671C1300F9FAEE /* Assets.xcassets */,
 				606AEA311C671C1300F9FAEE /* LaunchScreen.storyboard */,
@@ -128,19 +131,19 @@
 				606AEA3F1C673B2200F9FAEE /* A little sunshine.ttf */,
 				606AEA401C673B2200F9FAEE /* appleberry.ttf */,
 				606AEA411C673B2200F9FAEE /* Atlantic_Cruise-Demo.ttf */,
-				606AEA421C673B2200F9FAEE /* basictitlefont.ttf */,
 				606AEA431C673B2200F9FAEE /* big_noodle_titling.ttf */,
 				606AEA441C673B2200F9FAEE /* Brain Flower Euro.ttf */,
 				606AEA451C673B2200F9FAEE /* ClaphappyLight.ttf */,
-				606AEA461C673B2200F9FAEE /* Confessions WITHOUT ACCENTS (TrueType).ttf */,
-				606AEA471C673B2200F9FAEE /* DJB Coffee Shoppe Espresso.ttf */,
-				606AEA481C673B2200F9FAEE /* DJB Stinky Marker.ttf */,
+				606AEA6F1C6756BB00F9FAEE /* Comix Loud.ttf */,
 				606AEA491C673B2200F9FAEE /* DK Lemon Yellow Sun.otf */,
 				606AEA4A1C673B2200F9FAEE /* Fishfingers.ttf */,
 				606AEA4B1C673B2200F9FAEE /* Homework Font.ttf */,
 				606AEA4C1C673B2200F9FAEE /* natwooddraws-Regular.ttf */,
+				606AEA731C6756E600F9FAEE /* Le Grimoire du Bonheur.ttf */,
 				606AEA4D1C673B2200F9FAEE /* orange juice 2.0.ttf */,
+				606AEA761C67570300F9FAEE /* steelfish outline.ttf */,
 				606AEA4E1C673B2200F9FAEE /* Rounded Elegance.ttf */,
+				606AEA781C67571A00F9FAEE /* Wild Show.ttf */,
 				606AEA4F1C673B2200F9FAEE /* ThrowMyHandsUpintheAirBold.ttf */,
 				606AEA501C673B2200F9FAEE /* TrashHand.TTF */,
 				606AEA511C673B2200F9FAEE /* TravelingTypewriter.ttf */,
@@ -231,11 +234,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				606AEA611C673B2200F9FAEE /* Homework Font.ttf in Resources */,
-				606AEA581C673B2200F9FAEE /* basictitlefont.ttf in Resources */,
+				606AEA7A1C67571A00F9FAEE /* Wild Show.ttf in Resources */,
 				606AEA641C673B2200F9FAEE /* Rounded Elegance.ttf in Resources */,
 				606AEA621C673B2200F9FAEE /* natwooddraws-Regular.ttf in Resources */,
+				606AEA751C6756E600F9FAEE /* Le Grimoire du Bonheur.ttf in Resources */,
 				606AEA6A1C673B2200F9FAEE /* YouAreJustMyType.ttf in Resources */,
 				606AEA681C673B2200F9FAEE /* Walkway Black.ttf in Resources */,
+				606AEA771C67570300F9FAEE /* steelfish outline.ttf in Resources */,
 				606AEA691C673B2200F9FAEE /* walter_goes_to_america.ttf in Resources */,
 				606AEA671C673B2200F9FAEE /* TravelingTypewriter.ttf in Resources */,
 				606AEA5A1C673B2200F9FAEE /* Brain Flower Euro.ttf in Resources */,
@@ -245,16 +250,14 @@
 				606AEA331C671C1300F9FAEE /* LaunchScreen.storyboard in Resources */,
 				606AEA661C673B2200F9FAEE /* TrashHand.TTF in Resources */,
 				606AEA631C673B2200F9FAEE /* orange juice 2.0.ttf in Resources */,
-				606AEA5D1C673B2200F9FAEE /* DJB Coffee Shoppe Espresso.ttf in Resources */,
 				606AEA561C673B2200F9FAEE /* appleberry.ttf in Resources */,
 				606AEA551C673B2200F9FAEE /* A little sunshine.ttf in Resources */,
 				606AEA301C671C1300F9FAEE /* Assets.xcassets in Resources */,
-				606AEA5E1C673B2200F9FAEE /* DJB Stinky Marker.ttf in Resources */,
 				606AEA5F1C673B2200F9FAEE /* DK Lemon Yellow Sun.otf in Resources */,
 				606AEA651C673B2200F9FAEE /* ThrowMyHandsUpintheAirBold.ttf in Resources */,
 				606AEA591C673B2200F9FAEE /* big_noodle_titling.ttf in Resources */,
+				606AEA701C6756BB00F9FAEE /* Comix Loud.ttf in Resources */,
 				606AEA2E1C671C1300F9FAEE /* Main.storyboard in Resources */,
-				606AEA5C1C673B2200F9FAEE /* Confessions WITHOUT ACCENTS (TrueType).ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,6 +316,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				606AEA6C1C673FFA00F9FAEE /* CustomFont.swift in Sources */,
 				606AEA2B1C671C1300F9FAEE /* ViewController.swift in Sources */,
 				606AEA291C671C1300F9FAEE /* AppDelegate.swift in Sources */,
 				606AEA3B1C6722FF00F9FAEE /* QuestionCardView.swift in Sources */,
