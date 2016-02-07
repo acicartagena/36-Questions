@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>ChameleonFramework.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Koloda.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -26,6 +31,32 @@
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict/>
+	<dict>
+		<key>5172ACAB7FEA22813859DC97CA0AA16F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5E7A5C0436635C897C31FA4AC22188C3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6B922749C6ED6A12E06335D5BF9D2507</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>76A5889E54CD9B2DADB288E5BA34A5AA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DE561191A808F901E2F40385BA8C1474</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
 </dict>
 </plist>

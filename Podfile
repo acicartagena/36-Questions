@@ -7,6 +7,7 @@ target 'Thirty Six Questions' do
 
 pod 'Koloda'
 pod 'PureLayout'
+pod 'ChameleonFramework/Swift'
 
 end
 

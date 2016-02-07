@@ -1,14 +1,19 @@
 PODS:
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
   - Koloda (2.0.8):
     - pop (~> 1.0)
   - pop (1.0.9)
   - PureLayout (3.0.1)
 
 DEPENDENCIES:
+  - ChameleonFramework/Swift
   - Koloda
   - PureLayout
 
 SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
   Koloda: 7bdf4ed011ef100ea216c0f4b3bf3619d64e154d
   pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
   PureLayout: f35f5384c9c4e4479df041dbe33ad7577b71ddfb
