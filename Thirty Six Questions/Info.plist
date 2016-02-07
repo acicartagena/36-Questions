@@ -26,26 +26,26 @@
 	<array>
 		<string>A little sunshine.ttf</string>
 		<string>appleberry.ttf</string>
-		<string>Atlantic_Cuirse-Demo.ttf</string>
-		<string>basictitlefont.ttf</string>
+		<string>Atlantic_Cruise-Demo.ttf</string>
 		<string>big_noodle_titling.ttf</string>
-		<string>Barin Flower Euro.ttf</string>
+		<string>Brain Flower Euro.ttf</string>
 		<string>ClaphappyLight.ttf</string>
-		<string>Confessions WITHOUT ACCENTS (TrueType).ttf</string>
-		<string>DJB Coffe Shoppe Espresso.ttf</string>
-		<string>DJB Stinky Marker.ttf</string>
 		<string>DK Lemon Yellow Sun.otf</string>
 		<string>Fishfingers.ttf</string>
 		<string>Homework Font.ttf</string>
-		<string>natwooddaws-Regular.ttf</string>
+		<string>natwooddraws-Regular.ttf</string>
 		<string>orange juice 2.0.ttf</string>
 		<string>Rounded Elegance.ttf</string>
-		<string>ThrowMyHandsUpinTheAirBold.ttf</string>
+		<string>ThrowMyHandsUpintheAirBold.ttf</string>
 		<string>TrashHand.TTF</string>
 		<string>TravelingTypewriter.ttf</string>
 		<string>Walkway Black.ttf</string>
 		<string>walter_goes_to_america.ttf</string>
 		<string>YouAreJustMyType.ttf</string>
+		<string>Comix Loud.ttf</string>
+		<string>Le Grimoire du Bonheur.ttf</string>
+		<string>steelfish outline.ttf</string>
+		<string>Wild Show.ttf</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
