@@ -1,0 +1,291 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		606AEA291C671C1300F9FAEE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 606AEA281C671C1300F9FAEE /* AppDelegate.swift */; };
+		606AEA2B1C671C1300F9FAEE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 606AEA2A1C671C1300F9FAEE /* ViewController.swift */; };
+		606AEA2E1C671C1300F9FAEE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA2C1C671C1300F9FAEE /* Main.storyboard */; };
+		606AEA301C671C1300F9FAEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA2F1C671C1300F9FAEE /* Assets.xcassets */; };
+		606AEA331C671C1300F9FAEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 606AEA311C671C1300F9FAEE /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		606AEA251C671C1300F9FAEE /* Thirty Six Questions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Thirty Six Questions.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		606AEA281C671C1300F9FAEE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		606AEA2A1C671C1300F9FAEE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		606AEA2D1C671C1300F9FAEE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		606AEA2F1C671C1300F9FAEE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		606AEA321C671C1300F9FAEE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		606AEA341C671C1300F9FAEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		606AEA221C671C1300F9FAEE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		606AEA1C1C671C1300F9FAEE = {
+			isa = PBXGroup;
+			children = (
+				606AEA271C671C1300F9FAEE /* Thirty Six Questions */,
+				606AEA261C671C1300F9FAEE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		606AEA261C671C1300F9FAEE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				606AEA251C671C1300F9FAEE /* Thirty Six Questions.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		606AEA271C671C1300F9FAEE /* Thirty Six Questions */ = {
+			isa = PBXGroup;
+			children = (
+				606AEA281C671C1300F9FAEE /* AppDelegate.swift */,
+				606AEA2A1C671C1300F9FAEE /* ViewController.swift */,
+				606AEA2C1C671C1300F9FAEE /* Main.storyboard */,
+				606AEA2F1C671C1300F9FAEE /* Assets.xcassets */,
+				606AEA311C671C1300F9FAEE /* LaunchScreen.storyboard */,
+				606AEA341C671C1300F9FAEE /* Info.plist */,
+			);
+			path = "Thirty Six Questions";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		606AEA241C671C1300F9FAEE /* Thirty Six Questions */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 606AEA371C671C1300F9FAEE /* Build configuration list for PBXNativeTarget "Thirty Six Questions" */;
+			buildPhases = (
+				606AEA211C671C1300F9FAEE /* Sources */,
+				606AEA221C671C1300F9FAEE /* Frameworks */,
+				606AEA231C671C1300F9FAEE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Thirty Six Questions";
+			productName = "Thirty Six Questions";
+			productReference = 606AEA251C671C1300F9FAEE /* Thirty Six Questions.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		606AEA1D1C671C1300F9FAEE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Angela Cartagena";
+				TargetAttributes = {
+					606AEA241C671C1300F9FAEE = {
+						CreatedOnToolsVersion = 7.2;
+					};
+				};
+			};
+			buildConfigurationList = 606AEA201C671C1300F9FAEE /* Build configuration list for PBXProject "Thirty Six Questions" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 606AEA1C1C671C1300F9FAEE;
+			productRefGroup = 606AEA261C671C1300F9FAEE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				606AEA241C671C1300F9FAEE /* Thirty Six Questions */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		606AEA231C671C1300F9FAEE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				606AEA331C671C1300F9FAEE /* LaunchScreen.storyboard in Resources */,
+				606AEA301C671C1300F9FAEE /* Assets.xcassets in Resources */,
+				606AEA2E1C671C1300F9FAEE /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		606AEA211C671C1300F9FAEE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				606AEA2B1C671C1300F9FAEE /* ViewController.swift in Sources */,
+				606AEA291C671C1300F9FAEE /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		606AEA2C1C671C1300F9FAEE /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				606AEA2D1C671C1300F9FAEE /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		606AEA311C671C1300F9FAEE /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				606AEA321C671C1300F9FAEE /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		606AEA351C671C1300F9FAEE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		606AEA361C671C1300F9FAEE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		606AEA381C671C1300F9FAEE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Thirty Six Questions/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.acicartagena.questions.Thirty-Six-Questions";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		606AEA391C671C1300F9FAEE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Thirty Six Questions/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.acicartagena.questions.Thirty-Six-Questions";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		606AEA201C671C1300F9FAEE /* Build configuration list for PBXProject "Thirty Six Questions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				606AEA351C671C1300F9FAEE /* Debug */,
+				606AEA361C671C1300F9FAEE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		606AEA371C671C1300F9FAEE /* Build configuration list for PBXNativeTarget "Thirty Six Questions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				606AEA381C671C1300F9FAEE /* Debug */,
+				606AEA391C671C1300F9FAEE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 606AEA1D1C671C1300F9FAEE /* Project object */;
+}
