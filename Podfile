@@ -6,6 +6,7 @@ use_frameworks!
 target 'Thirty Six Questions' do
 
 pod 'Koloda'
+pod 'PureLayout'
 
 end
 

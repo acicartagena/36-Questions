@@ -2,12 +2,15 @@ PODS:
   - Koloda (2.0.8):
     - pop (~> 1.0)
   - pop (1.0.9)
+  - PureLayout (3.0.1)
 
 DEPENDENCIES:
   - Koloda
+  - PureLayout
 
 SPEC CHECKSUMS:
   Koloda: 7bdf4ed011ef100ea216c0f4b3bf3619d64e154d
   pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  PureLayout: f35f5384c9c4e4479df041dbe33ad7577b71ddfb
 
 COCOAPODS: 0.39.0
